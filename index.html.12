@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head>
+<title>Index of /genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0 on ftp.ncbi.nlm.nih.gov:21</title>
+</head>
+<body>
+<h1>Index of /genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0 on ftp.ncbi.nlm.nih.gov:21</h1>
+<hr>
+<pre>
+  2019 Mar 19        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_assembly_regions.txt">GCA_002204515.1_AaegL5.0_assembly_regions.txt</a>  (174124 bytes)
+  2019 Mar 19        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_assembly_report.txt">GCA_002204515.1_AaegL5.0_assembly_report.txt</a>  (710979 bytes)
+  2019 Mar 19        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_assembly_stats.txt">GCA_002204515.1_AaegL5.0_assembly_stats.txt</a>  (8350 bytes)
+  2018 Jan 08        Directory   <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_assembly_structure/">GCA_002204515.1_AaegL5.0_assembly_structure/</a> 
+  2017 Jun 29        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_cds_from_genomic.fna.gz">GCA_002204515.1_AaegL5.0_cds_from_genomic.fna.gz</a>  (4115 bytes)
+  2019 Mar 19        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_feature_count.txt.gz">GCA_002204515.1_AaegL5.0_feature_count.txt.gz</a>  (198 bytes)
+  2018 Jan 08        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_feature_table.txt.gz">GCA_002204515.1_AaegL5.0_feature_table.txt.gz</a>  (1090 bytes)
+  2018 Jan 09        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_genomic.fna.gz">GCA_002204515.1_AaegL5.0_genomic.fna.gz</a>  (601808239 bytes)
+  2019 Jul 09        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_genomic.gbff.gz">GCA_002204515.1_AaegL5.0_genomic.gbff.gz</a>  (784951518 bytes)
+  2019 Jul 09        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_genomic.gff.gz">GCA_002204515.1_AaegL5.0_genomic.gff.gz</a>  (236525 bytes)
+  2019 Jul 09        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_genomic.gtf.gz">GCA_002204515.1_AaegL5.0_genomic.gtf.gz</a>  (1627 bytes)
+  2020 Mar 25        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_genomic_gaps.txt.gz">GCA_002204515.1_AaegL5.0_genomic_gaps.txt.gz</a>  (2361 bytes)
+  2017 Jun 29        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_protein.faa.gz">GCA_002204515.1_AaegL5.0_protein.faa.gz</a>  (2505 bytes)
+  2019 Mar 19        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_protein.gpff.gz">GCA_002204515.1_AaegL5.0_protein.gpff.gz</a>  (7762 bytes)
+  2019 Jul 09        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_rm.out.gz">GCA_002204515.1_AaegL5.0_rm.out.gz</a>  (101689442 bytes)
+  2019 Mar 19        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_rm.run">GCA_002204515.1_AaegL5.0_rm.run</a>  (904 bytes)
+  2017 Jun 29        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_rna_from_genomic.fna.gz">GCA_002204515.1_AaegL5.0_rna_from_genomic.fna.gz</a>  (1729 bytes)
+  2018 Jan 08        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_translated_cds.faa.gz">GCA_002204515.1_AaegL5.0_translated_cds.faa.gz</a>  (2950 bytes)
+  2019 Mar 19        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/GCA_002204515.1_AaegL5.0_wgsmaster.gbff.gz">GCA_002204515.1_AaegL5.0_wgsmaster.gbff.gz</a>  (1525 bytes)
+  2017 Jun 29        Link        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/README.txt">README.txt</a> -> ../../../../../README.txt
+  2020 Mar 25        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/annotation_hashes.txt">annotation_hashes.txt</a>  (410 bytes)
+  2020 Dec 08 11:46  File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/assembly_status.txt">assembly_status.txt</a>  (14 bytes)
+  2020 Mar 25        File        <a href="ftp://ftp.ncbi.nlm.nih.gov:21/genomes/all/GCA/002/204/515/GCA_002204515.1_AaegL5.0/md5checksums.txt">md5checksums.txt</a>  (4172 bytes)
+</pre>
+</body>
+</html>
